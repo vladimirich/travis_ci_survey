@@ -1,0 +1,4 @@
+language: ruby
+rvm:
+  - 2.1.11
+script: bundle exec rails test test/
